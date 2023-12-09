@@ -1,0 +1,35 @@
+name: authentication_demo
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^4.13.0
+  firebase_core: ^2.23.0
+  firebase_ui_auth: ^1.10.0
+  firebase_ui_oauth_google: ^1.2.14
+  google_sign_in: ^6.1.6
+  cloud_firestore: ^4.13.1
+  provider: ^6.1.1
+  google_fonts: ^6.1.0
+  zego_uikit_prebuilt_call: ^3.17.9
+  zego_uikit_prebuilt_video_conference: ^2.6.3
+  go_router: ^12.1.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+  - assets/dash.png
+  - assets/flutterfire_300x.png
+  - assets/codelab.png
