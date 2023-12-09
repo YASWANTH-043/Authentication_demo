@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSCameraUsageDescription</key>
+    <string>We require camera access to connect</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>We require microphone access to connect</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYNcyePeX5v_nrTJ-V4Kc4wisijMJyu9o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1022426589843</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.authenticationDemo</string>
+	<key>PROJECT_ID</key>
+	<string>login-page-aaa0c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>login-page-aaa0c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1022426589843:ios:445a172d3fb1a04dd43b66</string>
+</dict>
+</plist>
+1022426589843-2u64mjb4aese563trh483jkrv7hklujd.apps.googleusercontent.com
